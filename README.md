@@ -60,5 +60,5 @@ These visualizations help in better understanding of the data.
 
 ##### 1. Clone the repository  
 ##### 2. Install required libraries:
-   ####pip install pandas matplotlib seaborn  
+   #### pip install pandas matplotlib seaborn  
 ##### 3. Open Jupyter Notebook and run the file
