@@ -1,3 +1,4 @@
+# Student Performance Analysis
 ##### This project is based on a student performance dataset. The main aim of this project is to analyze how different factors like study time, family background, and lifestyle habits affect students' academic performance.
 
 ##### In this project, I have used Python and different data analysis libraries to clean, explore, and visualize the data.
@@ -49,8 +50,15 @@
 
 These visualizations help in better understanding of the data.
 
-   Key Insights
-Students with higher study time tend to perform better
-More past failures generally lead to lower final grades
-Family and social factors also influence performance
-Balanced lifestyle plays an important role
+   ### Key Insights
+##### Students with higher study time tend to perform better
+##### More past failures generally lead to lower final grades
+##### Family and social factors also influence performance
+##### Balanced lifestyle plays an important role
+
+##  How to Run
+
+##### 1. Clone the repository  
+##### 2. Install required libraries:
+   ####pip install pandas matplotlib seaborn  
+##### 3. Open Jupyter Notebook and run the file
